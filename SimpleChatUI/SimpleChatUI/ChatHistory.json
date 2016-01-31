@@ -1,0 +1,80 @@
+{
+    "History": [
+                {
+                "SenderID" : "1",
+                "SenderMessage" : "Hi How are you?",
+                "SenderTimeStamp" : "25/01/2016 - 04:55:45 PM",
+                "SenderImageName" : "Steve.jpg",
+                "SenderName" : "Steve"
+                
+                },
+                {
+                "SenderID" : "2",
+                "SenderMessage" : "Great!",
+                "SenderTimeStamp" : "25/01/2016 - 05:01:15 PM",
+                "SenderImageName" : "Mark.jpg",
+                "SenderName" : "Mark"
+                },
+                {
+                "SenderID" : "2",
+                "SenderMessage" : "And you?",
+                "SenderTimeStamp" : "25/01/2016 - 05:01:15 PM",
+                "SenderImageName" : "Mark.jpg",
+                "SenderName" : "Mark"
+                },
+                {
+                "SenderID" : "1",
+                "SenderMessage" : "Doing very well thanks!",
+                "SenderTimeStamp" : "25/01/2016 - 05:02:25 PM",
+                "SenderImageName" : "Steve.jpg",
+                "SenderName" : "Steve"
+                
+                },
+                {
+                "SenderID" : "2",
+                "SenderMessage" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+                "SenderTimeStamp" : "25/01/2016 - 05:03:15 PM",
+                "SenderImageName" : "Mark.jpg",
+                "SenderName" : "Mark"
+                
+                },
+                {
+                "SenderID" : "2",
+                "SenderMessage" : "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar",
+                "SenderTimeStamp" : "25/01/2016 - 05:13:46 PM",
+                "SenderImageName" : "Mark.jpg",
+                "SenderName" : "Mark"
+                }
+               ],
+    "Reciver_Message": [
+                        {
+                        "SenderID" : "2",
+                        "SenderMessage" : "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way",
+                        "SenderTimeStamp" : "25/01/2016 - 05:01:15 PM",
+                        "SenderImageName" : "Mark.jpg",
+                        "SenderName" : "Mark"
+                        },
+                        {
+                        "SenderID" : "2",
+                        "SenderMessage" : "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane",
+                        "SenderTimeStamp" : "25/01/2016 - 05:01:15 PM",
+                        "SenderImageName" : "Mark.jpg",
+                        "SenderName" : "Mark"
+                        },
+                        {
+                        "SenderID" : "2",
+                        "SenderMessage" : "Pityful a rethoric question ran over her cheek, then",
+                        "SenderTimeStamp" : "25/01/2016 - 05:03:15 PM",
+                        "SenderImageName" : "Mark.jpg",
+                        "SenderName" : "Mark"
+                        
+                        },
+                        {
+                        "SenderID" : "2",
+                        "SenderMessage" : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.",
+                        "SenderTimeStamp" : "25/01/2016 - 05:13:46 PM",
+                        "SenderImageName" : "Mark.jpg",
+                        "SenderName" : "Mark"
+                        }
+                       ]
+}
